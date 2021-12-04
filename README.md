@@ -22,3 +22,7 @@ curl --location --request POST 'localhost:8000/qa' \ --header 'Content-Type: app
 
 
 Ajánlott a GPU használata, mert különben egy perc is lehet a latencia ideje.
+# Hasonló, de angol nyelvű megoldások a Dockerhub-on.
+https://hub.docker.com/repository/docker/adamfeldmann/squad
+
+https://hub.docker.com/repository/docker/adamfeldmann/smartsquad
